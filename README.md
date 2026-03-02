@@ -54,4 +54,4 @@ streamlit run app.py
 ```
 
 ## Part of my #BuildingInPublic series
-Week 3 of building in public — one AI/Data Engineering project per week.
+3rd project of building in public — one AI/Data Engineering project every few days.
