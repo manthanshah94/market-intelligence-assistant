@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+.env
+*.duckdb
+.DS_Store
+ai/ai_agent.py

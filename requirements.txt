@@ -1,0 +1,6 @@
+yfinance
+duckdb
+anthropic
+streamlit
+pandas
+plotly
